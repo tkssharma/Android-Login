@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RestroSearch</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="highlight_preamble">To use Highlight, please sign in with one of the services below:</string>
+    <string name="why_not_email_title">Why not email?</string>
+    <string name="why_not_email_body">Highlight is based on real identity and mutual friends.
+        Using these services allows us to show you how you are connected to the people around you.
+        It also makes it super easy to create a Highlight profile.
+    </string>
+    <string name="feedback_label">Please <a href="http://highlight.com">let us know</a> if you have feedback
+        on this or if you would like to log in with another identity service. Thanks!
+    </string>
+    <string name="permission_label">We will not post things without your permission.</string>
+    <string name="facebook_desc" />
+</resources>
